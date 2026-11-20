@@ -1,6 +1,6 @@
 # Trabalho Prático: Máquina de Estados
 
-Disciplina: Sistemas Computacionais — modalidade em grupo.
+Disciplina: Análise de Algoritmos
 
 Máquina de venda automática (vending) implementada em **C**, com testes 100% automatizados
 de **estados**, **transições** e **caminhos independentes**.
