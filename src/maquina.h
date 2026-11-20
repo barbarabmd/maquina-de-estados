@@ -1,6 +1,5 @@
 /*
  * maquina.h - Máquina de estados de uma máquina de venda automática (vending)
- * Trabalho Prático: Máquina de Estados - Sistemas Computacionais
  */
 #ifndef MAQUINA_H
 #define MAQUINA_H
